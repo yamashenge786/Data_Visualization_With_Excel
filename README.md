@@ -1,4 +1,5 @@
 📊 Excel Sales Dashboard Project
+
 This repository contains an interactive Sales Dashboard built in Microsoft Excel.
 The dashboard combines Pivot Tables, Pivot Charts, and a clean layout to visualize key business metrics such as monthly revenue trends and regional sales performance.
 
